@@ -1,4 +1,4 @@
-```console{.wrap}
+```bash{.wrap}
 zenessis@github:~$ ./welcome.sh
 ```
 
@@ -17,7 +17,7 @@ Languages: JavaScript, C, CPP,
            Python, HTML, CSS
 Learning: Next.js, React
 Hobbies:  Gaming, Anime, Mangas
-Commits: 26
+Commits: 27
 Stars: 0
 Discord: myfakelife.
 ```
@@ -28,7 +28,7 @@ Discord: myfakelife.
 </p>
 
 
-```console{.wrap}
-zenessis@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+```bash{.wrap}
+zenessis@github:~$ sudo echo "{style="color:blue"}\* /usr/local/bin/catchbugs{style="color:skyblue"}" {style="color:orange"}>>{style="color:purple"} /tmp/crontab$$
 ```
 
