@@ -1,4 +1,4 @@
-```console
+```console{.wrap}
 zenessis@github:~$ ./welcome.sh
 ```
 
@@ -28,7 +28,7 @@ Discord: myfakelife.
 </p>
 
 
-```console
+```console{.wrap}
 zenessis@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
 
