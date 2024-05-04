@@ -1,4 +1,4 @@
-```console{.wrap}
+```bash{.wrap}
 zenessis@github:~$ ./welcome.sh
 ```
 
@@ -28,7 +28,7 @@ Discord: myfakelife.
 </p>
 
 
-```console{.wrap}
-zenessis@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+```bash{.wrap}
+zenessis@github:~$ sudo echo "{style="color:blue"}\* /usr/local/bin/catchbugs{style="color:skyblue"}" {style="color:orange"}>>{style="color:purple"} /tmp/crontab$$
 ```
 
