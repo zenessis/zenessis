@@ -1,7 +1,6 @@
 ```console
 zenessis@github:~$ ./welcome.sh
 ```
-
 <img align="left" src="https://github.com/zenessis/zenessis/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```csharp
@@ -29,4 +28,3 @@ Discord: myfakelife.
 ```console
 zenessis@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
-
