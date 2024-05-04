@@ -1,4 +1,4 @@
-```console
+```console{.wrap}
 zenessis@github:~$ ./welcome.sh
 ```
 
@@ -17,7 +17,7 @@ Languages: JavaScript, C, CPP,
            Python, HTML, CSS
 Learning: Next.js, React
 Hobbies:  Gaming, Anime, Mangas
-Commits: 25
+Commits: 26
 Stars: 0
 Discord: myfakelife.
 ```
@@ -28,7 +28,7 @@ Discord: myfakelife.
 </p>
 
 
-```console
+```console{.wrap}
 zenessis@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
 
