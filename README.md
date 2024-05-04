@@ -1,7 +1,6 @@
-```console
+```zsh
 zenessis@github:~$ ./welcome.sh
 ```
-
 
 <img align="left" src="https://github.com/zenessis/zenessis/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
@@ -17,18 +16,15 @@ Languages: JavaScript, C, CPP,
            Python, HTML, CSS
 Learning: Next.js, React
 Hobbies:  Gaming, Anime, Mangas
-Commits: 29
+Commits: 30
 Stars: 0
 Discord: myfakelife.
 ```
-
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#917b88" src="https://raw.githubusercontent.com/zenessis/zenessis/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/zenessis/zenessis/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/zenessis/zenessis/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/zenessis/zenessis/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/zenessis/zenessis/main/img/95e3ed.png" width="25" height="20" />
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
 
-
-```console
+```zsh
 zenessis@github:~$ sudo echo "\* /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
-
