@@ -16,7 +16,7 @@ Languages: JavaScript, C, CPP,
            Python, HTML, CSS
 Learning: Next.js, React
 Hobbies:  Gaming, Anime, Mangas
-Commits: 38
+Commits: 41
 Stars: 0
 Discord: myfakelife.
 ```
