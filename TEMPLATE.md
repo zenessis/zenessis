@@ -18,7 +18,7 @@ Learning: Next.js, React
 Hobbies:  Gaming, Anime, Mangas
 Commits: {{ COMMITS }}
 Stars: {{ STARS }}
-Discord: myfakelife.
+Discord: oldschoolbf.
 ```
 
 <p align="left">
